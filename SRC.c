@@ -7,5 +7,8 @@ char even (int n){
  return   n&1;
 }
 int DIV (int a,int b){
+    if(b)
 return a/b;
+else
+    return -1;
 }

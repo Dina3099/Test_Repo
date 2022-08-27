@@ -1,3 +1,10 @@
 # depslib dependency file v1.0
-1661591422 source:c:\users\lenovo\desktop\new folder\tst1\src.c
+1661591668 source:c:\users\lenovo\desktop\new folder\tst1\src.c
+
+1661591447 source:c:\users\lenovo\desktop\new folder\tst1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TST1.h"
+
+1661591422 c:\users\lenovo\desktop\new folder\tst1\tst1.h
 
